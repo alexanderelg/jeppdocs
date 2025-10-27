@@ -1,6 +1,6 @@
 | Date |	Name	|Institution|	Link|
 | ------ | ----- | ------- |------- |
-|1974	|Community Energy Policy: Objectives for 1985|	European Commission|[here](main/1974a.pdf)|
+|1974	|Community Energy Policy: Objectives for 1985|	European Commission|[here](/1974a.pdf)|
 |1974	|New Energy Policy Strategy for the European Community	|European Commission	|[here](main/1974b.pdf)|
 |1976	|Bulletin of the European Communities, no. 12 1976	|European Commission	|[here](main/1976.pdf)
 |1977	|Bulletin of the European Communities, no. 10 1977	|European Commission	|[here](main/1977.pdf)
