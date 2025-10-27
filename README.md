@@ -23,3 +23,4 @@ Below are links to all European Communication I reference in my paper
 |2014	|A European Industrial Strategic Roadmap for Micro- and Nano-Electronic Components and Systems: A Report to Vice President Kroes by the Electronic Leaders Group|Electronics Leaders’ Group/European Commission	|[here](/2014.pdf)
 |2021	|Criteria for the Analysis of the Compatibility with the Internal Market of State Aid to Promote the Execution of Important Projects of Common European Interest	|European Commission	|[here](/2021.pdf)
 |2023|	DG COMP Code of good practices for a transparent, inclusive, faster design and assessment of IPCEIs	|European Commission	|[here](/2023.pdf)
+|No date|	Participating in an Important Project of common European Interest: Technical guidance on conditions and process|European Commission	|[here](/nodate.pdf)
