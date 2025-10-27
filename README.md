@@ -6,8 +6,7 @@ Below are links to all European Communication I reference in my paper
 |1974	|New Energy Policy Strategy for the European Community	|European Commission	|[here](/1974b.pdf)|
 |1976	|Bulletin of the European Communities, no. 12 1976	|European Commission	|[here](/1976.pdf)
 |1977	|Bulletin of the European Communities, no. 10 1977	|European Commission	|[here](/1977.pdf)
-|1978	|Seventh Report on Competition Policy: Published in Conjunction with the ‘Eleventh General Report on the Activities of the European Communities’
-	|European Commission	|[here](/1978.pdf)
+|1978	|Seventh Report on Competition Policy: Published in Conjunction with the ‘Eleventh General Report on the Activities of the European Communities'|European Commission|[here](/1978.pdf)|
 |1993	|JESSI-0024: Joint meetings Board/Committee	|JESSI Board and JESSI Committee	|[here](/1993a.pdf)
 |1993	|JESSI-0026: Joint meetings Government Action Team (GAT)/Board Support Group (BSG)|	JESSI Government Action Team and JESSI Board Support Group|[here](/1993b.pdf)
 |1995	|JESSI-0029: Assessment of JESSI programme|	JESSI Coordination Group	|[here](/1995.pdf)
